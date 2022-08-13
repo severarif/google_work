@@ -1,0 +1,67 @@
+div li{
+    display:inline-block;
+    margin: 10px;
+    
+
+}
+header{
+    display:inline;
+    margin-bottom: 300px;
+    overflow: auto;
+    height: 100px;
+    
+    
+}
+.sol{
+    float: left;
+}
+.sag{
+    float: right;
+}
+footer{
+    display: inline;
+}
+a{
+    color: grey;
+    text-decoration: none;
+}
+#ing{
+    color: blue;
+    text-decoration:underline
+}
+main{
+   
+    margin: auto;
+     margin-top: 200px;
+     margin-bottom: 100px;
+    width: 400px;
+    height: 300px;
+}
+#search{
+    
+    margin: auto;
+}
+body{
+    padding: 1px;
+}
+#google{
+    border: 1px solid grey;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+#input1:focus{
+    
+    outline: none;
+}
+#input1{
+    border: 0px;
+    width: 300px;
+}
+
+    
+   
